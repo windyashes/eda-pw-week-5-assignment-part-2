@@ -1,11 +1,15 @@
-header {
-    background-color: darkslategrey;
-    text-align: center;
-}
-main {
-    background-color: lightslategray;
-}
 body {
+    
     background-image: url("record.png");
     background-repeat: repeat;
+    margin: 0;
+
+    header {
+        background-color: darkslategrey;
+        text-align: center;
+    }
+    main {
+        background-color: lightslategray;
+        padding: 1em;
+    }
 }
